@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/number-guess-game/static/css/main.dddb5ec4.chunk.css",
+    "main.js": "/number-guess-game/static/js/main.7f5fbc62.chunk.js",
+    "main.js.map": "/number-guess-game/static/js/main.7f5fbc62.chunk.js.map",
+    "runtime-main.js": "/number-guess-game/static/js/runtime-main.6430a2b1.js",
+    "runtime-main.js.map": "/number-guess-game/static/js/runtime-main.6430a2b1.js.map",
+    "static/js/2.a552a814.chunk.js": "/number-guess-game/static/js/2.a552a814.chunk.js",
+    "static/js/2.a552a814.chunk.js.map": "/number-guess-game/static/js/2.a552a814.chunk.js.map",
+    "index.html": "/number-guess-game/index.html",
+    "precache-manifest.e18d6ceba66dc404c3dbd827d9a925ea.js": "/number-guess-game/precache-manifest.e18d6ceba66dc404c3dbd827d9a925ea.js",
+    "service-worker.js": "/number-guess-game/service-worker.js",
+    "static/css/main.dddb5ec4.chunk.css.map": "/number-guess-game/static/css/main.dddb5ec4.chunk.css.map",
+    "static/js/2.a552a814.chunk.js.LICENSE.txt": "/number-guess-game/static/js/2.a552a814.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6430a2b1.js",
+    "static/js/2.a552a814.chunk.js",
+    "static/css/main.dddb5ec4.chunk.css",
+    "static/js/main.7f5fbc62.chunk.js"
+  ]
+}
