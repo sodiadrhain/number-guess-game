@@ -1,6 +1,6 @@
 ##Number Guessing Game App 
 
-sodiadrhain.github.io/number-guess-game 
+https://sodiadrhain.github.io/number-guess-game 
 
 ###• Built with React.
 
